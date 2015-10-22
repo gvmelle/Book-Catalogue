@@ -1075,20 +1075,50 @@ Zie "Meer voorkeuren" voor de relevante instelling.
     <!-- Begin: Added/Updated in 5.1.3 -->
     
     <!-- Preference name (fairly short) for preferred language -->
-    <string name="preferred_interface_language">Geprefereerde Interface taal</string>
+    <string name="preferred_interface_language">Voorkeurstaal voor Interface</string>
     <!-- Preference value for a specific language. First arg is name in it's own language, second arg is name in current locale -->
     <string name="preferred_language_x">%1$s (%2$s)</string>
 
     <!-- This is an UPDATED string copied from earlier in the file; "Google Googles" (sic) was removed from the list of scanners -->
     <string name="install_scan">Om uw boeken te scannen via de ISBN barcode, moet u een van de Zxing of pic2shop barcode scanner applicaties installeren.</string>
 
-    <string name="system_locale">Systeem Locale</string>
+    <string name="system_locale">Systeem taal</string>
     
     <!-- WILL PROBABLY BE MORE! -->
 
     <!-- End: Added/Updated in 5.1.3 -->
+    <!-- Begin: Added/Updated in 5.2.0 -->
+    
+    <!-- Preference name (fairly short) for preferred language -->
+    <string name="preferred_interface_language">Voorkeurstaal voor Interface</string>
+    <!-- Preference value for a specific language. First arg is name in it's own language, second arg is name in current locale -->
+    <string name="preferred_language_x">%1$s (%2$s)</string>
 
-     <!-- Begin: Added/Updated in [Next Version] DO NOT TRANSLATE YET! MAY CHANGE OR BE DELETED! -->    
+    <!-- This is an UPDATED string copied from earlier in the file; "Google Googles" (sic) was removed from the list of scanners -->
+    <string name="install_scan">Om uw boeken te scannen via de ISBN barcode, moet u een van de Zxing of pic2shop barcode scanner applicaties installeren.</string>
+
+    <string name="system_locale">Systeem taal</string>
+
+    <!-- Credits in the 'about' dialog -->
+    <string name="translators_blurb">BookCatalogue is het product van de inzet van vele personen en zou niet zo'n wijde verspreiding hebben zonder de genereuze en vrijwillige hulp van onze vertalers: Eugenio Davolio, José M. Galdo, Imkal, Dimitris Klisiaris, Gideon van Melle, Emir Sarı, Nick Silin, and Robert Wetzlmayr (als we iemand zijn vergeten, laat het ons weten!).</string>
+
+    <string name="new_in_520">
+		<![CDATA[
+			<p><b>Nieuw in 5.2.0</b>\n\n
+			    * Gebruiksvriendelijke taalkeuze in voorkeursinstellingen\n\n
+			    * Griekse vertaling (Dimitris Klisiaris)\n\n
+                * Taal afhankelijke hoofdletterkeuze (de, fr)\n\n
+                * Verbeteringen in zoeken\n\n
+				* Bug fixes\n\n
+			</p>
+		]]>
+    </string>
+
+    <!-- End: Added/Updated in 5.2.0 -->
+
+    <!-- Begin: Added/Updated in [Next Version] DO NOT TRANSLATE YET! MAY CHANGE OR BE DELETED! -->    
+
+    
     <!-- End: Added/Updated in [Next Version] -->
     
     </resources>
